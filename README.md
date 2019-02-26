@@ -1,5 +1,9 @@
 ### karma-sonarqube-unit-reporter
 
+Fork from https://github.com/tornaia/karma-sonarqube-unit-reporter including fix for
+* findDescriptionInFile breaks on spaces
+* console.log() cluttering
+
 [![NpmLicense](https://img.shields.io/npm/l/karma-sonarqube-unit-reporter.svg)](https://opensource.org/licenses/MIT) [![npm](https://img.shields.io/npm/dt/karma-sonarqube-unit-reporter.svg)](https://npmjs.com/package/karma-sonarqube-unit-reporter) [![NpmVersion](https://img.shields.io/npm/v/karma-sonarqube-unit-reporter.svg)](https://npmjs.com/package/karma-sonarqube-unit-reporter)
 
 ##### Donate
